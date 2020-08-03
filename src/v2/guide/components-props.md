@@ -19,7 +19,7 @@ Vue.component('blog-post', {
 ```
 
 ``` html
-<!-- forato kebab en HTML -->
+<!-- formato kebab en HTML -->
 <blog-post post-title="hola!"></blog-post>
 ```
 
