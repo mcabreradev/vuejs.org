@@ -3,10 +3,10 @@
 ## Tech Stack
 mcabreradev/vuejs.org is built on the following main stack:
 
-- [Hexo](http://hexo.io/) – Static Site Generators
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [EJS](https://ejs.co/) – Templating Languages & Extensions
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- [Hexo](http://hexo.io/) – Static Site Generators
 
 Full tech stack [here](/techstack.md)
 
@@ -16,10 +16,10 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 mcabreradev/vuejs.org is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/1154/mQZOTo9f.png' alt='Hexo'/> [Hexo](http://hexo.io/) – Static Site Generators
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='EJS'/> [EJS](https://ejs.co/) – Templating Languages & Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/1154/mQZOTo9f.png' alt='Hexo'/> [Hexo](http://hexo.io/) – Static Site Generators
 
 Full tech stack [here](/techstack.md)
 
@@ -30,7 +30,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [mcabreradev/vuejs.org](https://github.com/mcabreradev/vuejs.org)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|8<br/>Tools used|01/05/24 <br/>Report generated|
+|8<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -104,7 +104,7 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[hoek](https://www.npmjs.com/hoek)|v6.1.2|01/04/19|Evan You |BSD-3-Clause|N/A|
+|[hoek](https://www.npmjs.com/hoek)|v6.1.2|01/04/19|Evan You |BSD-3-Clause|[CVE-2020-36604](https://github.com/advisories/GHSA-c429-5p7v-vgjp) (High)|
 |[request](https://www.npmjs.com/request)|v2.88.0|04/02/18|Evan You |Apache-2.0|[CVE-2023-28155](https://github.com/advisories/GHSA-p8p7-x288-28g6) (Moderate)|
 
 <br/>
